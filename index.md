@@ -10,14 +10,14 @@ title: The Importance of Noise in Audiovisual Learning
 
 ## Introduction
 
-Training ANNs to replicate human perception enables researchers to investigate why our perceptual mechanisms might behave in particular ways \cite{kanwisher2023using}. This study explores the McGurk effect: an auditory-visual illusion wherein incongruent inputs lead to a fused, but incorrect, auditory percept. 
+Training ANNs to replicate human perception enables researchers to investigate why our perceptual mechanisms might behave in particular ways (3). This study explores the McGurk effect: an auditory-visual illusion wherein incongruent inputs lead to a fused, but incorrect, auditory percept. 
  
  Three major aspects of ANNs can be modified to test whether certain conditions are required for them to exhibit human behaviour or dynamics. While manipulating these conditions in humans is not feasible, it is straightforward to do so with ANNs.
 
 This study manipulated the \textit{Training Data} dimension to test whether the presence of noise influences the fusion of auditory and visual cues during the McGurk effect.
 
 ## Methodology
-- Audiovisual dataset of nine word pairs based on \cite{dekle1992audiovisual}
+- Audiovisual dataset of nine word pairs based on (2)
 - Tested humans and ANNs trained on audiovisual speech
 - Human participants (n=14) selected perceived word in forced-choice task
 - K-nearest neighbours classifier on ANN output embeddings for ANN forced-choice task
