@@ -5,6 +5,7 @@ title: The Importance of Noise in Audiovisual Learning
 
 # The Importance of Noise in Audiovisual Learning: An Artificial Neural Network Simulation of the McGurk Effect
 
+
 **Authors:** Lukas Grasse, Matthew Tata  
 **Affiliation:** Canadian Centre for Behavioural Neuroscience, University of Lethbridge
 
