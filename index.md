@@ -15,14 +15,14 @@ Training ANNs to replicate human perception enables researchers to investigate w
  
  Three major aspects of ANNs can be modified to test whether certain conditions are required for them to exhibit human behaviour or dynamics. While manipulating these conditions in humans is not feasible, it is straightforward to do so with ANNs.
 
-This study manipulated the \textit{Training Data} dimension to test whether the presence of noise influences the fusion of auditory and visual cues during the McGurk effect.
+This study manipulated the *Training Data* dimension to test whether the presence of noise influences the fusion of auditory and visual cues during the McGurk effect.
 
 ## Methodology
 - Audiovisual dataset of nine word pairs based on (2)
 - Tested humans and ANNs trained on audiovisual speech
 - Human participants (n=14) selected perceived word in forced-choice task
 - K-nearest neighbours classifier on ANN output embeddings for ANN forced-choice task
-- Modulated noise level during CPC network training to test the impact of increased noise during \textit{learning}
+- Modulated noise level during CPC network training to test the impact of increased noise during *learning*
 
 ## AudioVisual Networks
 
