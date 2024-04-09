@@ -26,17 +26,17 @@ This study manipulated the \textit{Training Data} dimension to test whether the 
 ## AudioVisual Networks
 
 ** Deep AVSR (2018) ** [1]
-- *** Training Task: *** Supervised Speech Recognition, Curriculum Learning
-- *** Training Noise: *** Babble, 25% probability
+- ** Training Task: ** Supervised Speech Recognition, Curriculum Learning
+- ** Training Noise: ** Babble, 25% probability
 
 ** AV-HuBERT (2022) ** [4]
 
-- *** Training Task: *** Self-Supervised Learning, Speech Recognition Fine-tuning
-- *** Training Noise: *** Natural Sounds, Music, Babble, Speech, 25% probability
+- ** Training Task: ** Self-Supervised Learning, Speech Recognition Fine-tuning
+- ** Training Noise: ** Natural Sounds, Music, Babble, Speech, 25% probability
 
 ** AudioVisual CPC (2024, Our Network) **
-- *** Training Task: *** Self-Supervised Learning, Contrastive Predictive Coding
-- *** Training Noise: *** Babble, 0-100% probability
+- ** Training Task: ** Self-Supervised Learning, Contrastive Predictive Coding
+- ** Training Noise: ** Babble, 0-100% probability
 
 ## Results
 
