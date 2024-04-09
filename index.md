@@ -47,7 +47,12 @@ This study manipulated the \textit{Training Data} dimension to test whether the 
 | Accuracy                 |    65.22% | 80.47%  | 94.48%        | 90.81%  | 92.99%       | 95.97%          | 92.26%  |
 | Bootstrapped 95% CI      |   ± 6.12% | ± 4.39% | ± 2.96%       | ± 3.48% | ± 3.35       | ± 2.02          | ± 3.52% |
 
+[[assets/figure_1.svg|McGurk Stimuli Classification Results]]
+**Figure 1: McGurk Stimuli Classification Results**
 
+
+[[assets/figure_2.svg|Audio-Visual CPC Network Performance Under Increased Levels of Training Noise]]
+**Figure 2: Audio-Visual CPC Network Performance Under Increased Levels of Training Noise**
 
 ## Discussion
 
